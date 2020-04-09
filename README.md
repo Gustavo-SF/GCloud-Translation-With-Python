@@ -36,7 +36,7 @@ You will be asked about which project you will want to connect to. In this case 
 
 1. Go to the Google Cloud Platform.
 2. Select your project on the top-left corner.
-2. Search for 'Cloud Translation API' and enable it.
+2. Search for "Cloud Translation API" and enable it.
 
 ## Install Google Cloud Translate through PIP
 
@@ -64,8 +64,8 @@ Simply export it as GOOGLE_APPLICATION_CREDENTIALS.
 
 To keep in mind:
 
-1. Should have an encoding at the start like '# -*- coding: utf-8 -*-'.
-2. Import the Translate Model.
-3. Apply with by puttin in the string and the target language.
+1. Should have an encoding at the start like `# -*- coding: utf-8 -*-`.
+2. Import the Translate model.
+3. Apply the model by puttin in the string and the target language.
 
 
